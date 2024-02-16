@@ -1,0 +1,7 @@
+\begin{Verbatim}[commandchars=\\\{\},codes={\catcode`\$=3\catcode`\^=7\catcode`\_=8\relax}]
+[root@localhost nginx]\PYGZdl{}\PYG{p}{\PYGZti{}} tree \PYG{k}{conf}/
+\PYG{k}{conf}/
+    ├── fastcgi.\PYG{k}{conf}
+    ├── fastcgi.\PYG{k}{conf}.default
+    └── \PYG{k}{win}\PYG{p}{\PYGZhy{}}utf
+\end{Verbatim}

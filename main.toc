@@ -1,0 +1,192 @@
+\contentsline {part}{ \@mptof {1}{三角函数} }{1}{part.1}%
+\contentsline {chapter}{\numberline {第 1{} 章}三角函数}{2}{chapter.1}%
+\contentsline {section}{\numberline {1.1}模板历史概述}{2}{section.1.1}%
+\contentsline {section}{\numberline {1.2}模板内容介绍-数学环境}{3}{section.1.2}%
+\contentsline {subsection}{\numberline {1.2.1}抄录环境}{3}{subsection.1.2.1}%
+\contentsline {subsection}{\numberline {1.2.2}定理环境}{4}{subsection.1.2.2}%
+\contentsline {subsubsection}{\numberline {1.2.2.1}数学环境-定义}{4}{subsubsection.1.2.2.1}%
+\contentsline {subsubsection}{\numberline {1.2.2.2}数学环境-定理}{5}{subsubsection.1.2.2.2}%
+\contentsline {subsubsection}{\numberline {1.2.2.3}数学环境-公理}{6}{subsubsection.1.2.2.3}%
+\contentsline {subsubsection}{\numberline {1.2.2.4}数学环境-公设}{7}{subsubsection.1.2.2.4}%
+\contentsline {subsubsection}{\numberline {1.2.2.5}数学环境-引理}{8}{subsubsection.1.2.2.5}%
+\contentsline {subsubsection}{\numberline {1.2.2.6}数学环境-命题}{8}{subsubsection.1.2.2.6}%
+\contentsline {subsubsection}{\numberline {1.2.2.7}数学环境-推论}{9}{subsubsection.1.2.2.7}%
+\contentsline {subsubsection}{\numberline {1.2.2.8}数学环境-性质}{9}{subsubsection.1.2.2.8}%
+\contentsline {subsubsection}{\numberline {1.2.2.9}数学环境-假设}{10}{subsubsection.1.2.2.9}%
+\contentsline {subsubsection}{\numberline {1.2.2.10}数学环境-例题\&练习}{11}{subsubsection.1.2.2.10}%
+\contentsline {subsubsection}{\numberline {1.2.2.11}任意环境-自定义标记}{12}{subsubsection.1.2.2.11}%
+\contentsline {section}{\numberline {1.3}模板内容介绍-其他盒子}{13}{section.1.3}%
+\contentsline {subsection}{\numberline {1.3.1}ascolorbox类移植盒子-多行彩框}{14}{subsection.1.3.1}%
+\contentsline {subsection}{\numberline {1.3.2}ascbox类移植盒子-单行盒子}{19}{subsection.1.3.2}%
+\contentsline {subsection}{\numberline {1.3.3}补充环境}{21}{subsection.1.3.3}%
+\contentsline {section}{\numberline {1.4}模板内容介绍-抄录环境}{22}{section.1.4}%
+\contentsline {section}{\numberline {1.5}模板使用问题-编译过慢}{25}{section.1.5}%
+\contentsline {part}{ \@mptof {2}{集合论} }{26}{part.2}%
+\contentsline {chapter}{\numberline {第 2{} 章}经典力学}{27}{chapter.2}%
+\contentsline {section}{\numberline {2.1}模板历史概述1}{27}{section.2.1}%
+\contentsline {section}{\numberline {2.2}线性变换}{27}{section.2.2}%
+\contentsline {section}{\numberline {2.3}复数2}{28}{section.2.3}%
+\contentsline {section}{\numberline {2.4}复数1}{28}{section.2.4}%
+\contentsline {section}{\numberline {2.5}模板历史概述2}{28}{section.2.5}%
+\contentsline {part}{ \@mptof {3}{群论} }{34}{part.3}%
+\contentsline {chapter}{\numberline {第 3{} 章}矩阵分析}{35}{chapter.3}%
+\contentsline {section}{\numberline {3.1}模板历史概述1}{35}{section.3.1}%
+\contentsline {section}{\numberline {3.2}线性变换}{35}{section.3.2}%
+\contentsline {section}{\numberline {3.3}复数2}{36}{section.3.3}%
+\contentsline {section}{\numberline {3.4}复数1}{36}{section.3.4}%
+\contentsline {section}{\numberline {3.5}模板历史概述2}{36}{section.3.5}%
+\contentsline {part}{ \@mptof {4}{初等数论} }{42}{part.4}%
+\contentsline {chapter}{\numberline {第 4{} 章}经典力学}{43}{chapter.4}%
+\contentsline {section}{\numberline {4.1}模板历史概述1}{43}{section.4.1}%
+\contentsline {section}{\numberline {4.2}线性变换}{43}{section.4.2}%
+\contentsline {section}{\numberline {4.3}复数2}{44}{section.4.3}%
+\contentsline {section}{\numberline {4.4}复数1}{44}{section.4.4}%
+\contentsline {section}{\numberline {4.5}模板历史概述2}{44}{section.4.5}%
+\contentsline {part}{ \@mptof {5}{高等数学} }{50}{part.5}%
+\contentsline {chapter}{\numberline {第 5{} 章}高等数学}{51}{chapter.5}%
+\contentsline {section}{\numberline {5.1}模板历史概述1}{51}{section.5.1}%
+\contentsline {section}{\numberline {5.2}线性变换}{51}{section.5.2}%
+\contentsline {section}{\numberline {5.3}复数2}{52}{section.5.3}%
+\contentsline {section}{\numberline {5.4}复数1}{52}{section.5.4}%
+\contentsline {section}{\numberline {5.5}模板历史概述2}{52}{section.5.5}%
+\contentsline {part}{ \@mptof {6}{线性代数} }{58}{part.6}%
+\contentsline {chapter}{\numberline {第 6{} 章}线性代数}{59}{chapter.6}%
+\contentsline {section}{\numberline {6.1}模板历史概述}{59}{section.6.1}%
+\contentsline {section}{\numberline {6.2}模板内容介绍-数学环境}{60}{section.6.2}%
+\contentsline {subsection}{\numberline {6.2.1}抄录环境}{60}{subsection.6.2.1}%
+\contentsline {subsection}{\numberline {6.2.2}定理环境}{61}{subsection.6.2.2}%
+\contentsline {subsubsection}{\numberline {6.2.2.1}数学环境-定义}{61}{subsubsection.6.2.2.1}%
+\contentsline {subsubsection}{\numberline {6.2.2.2}数学环境-定理}{62}{subsubsection.6.2.2.2}%
+\contentsline {subsubsection}{\numberline {6.2.2.3}数学环境-公理}{63}{subsubsection.6.2.2.3}%
+\contentsline {subsubsection}{\numberline {6.2.2.4}数学环境-公设}{64}{subsubsection.6.2.2.4}%
+\contentsline {subsubsection}{\numberline {6.2.2.5}数学环境-引理}{65}{subsubsection.6.2.2.5}%
+\contentsline {subsubsection}{\numberline {6.2.2.6}数学环境-命题}{65}{subsubsection.6.2.2.6}%
+\contentsline {subsubsection}{\numberline {6.2.2.7}数学环境-推论}{66}{subsubsection.6.2.2.7}%
+\contentsline {subsubsection}{\numberline {6.2.2.8}数学环境-性质}{66}{subsubsection.6.2.2.8}%
+\contentsline {subsubsection}{\numberline {6.2.2.9}数学环境-假设}{67}{subsubsection.6.2.2.9}%
+\contentsline {subsubsection}{\numberline {6.2.2.10}数学环境-例题\&练习}{68}{subsubsection.6.2.2.10}%
+\contentsline {subsubsection}{\numberline {6.2.2.11}任意环境-自定义标记}{69}{subsubsection.6.2.2.11}%
+\contentsline {section}{\numberline {6.3}模板内容介绍-其他盒子}{70}{section.6.3}%
+\contentsline {subsection}{\numberline {6.3.1}ascolorbox类移植盒子-多行彩框}{71}{subsection.6.3.1}%
+\contentsline {subsection}{\numberline {6.3.2}ascbox类移植盒子-单行盒子}{76}{subsection.6.3.2}%
+\contentsline {subsection}{\numberline {6.3.3}补充环境}{78}{subsection.6.3.3}%
+\contentsline {section}{\numberline {6.4}模板内容介绍-抄录环境}{79}{section.6.4}%
+\contentsline {section}{\numberline {6.5}模板使用问题-编译过慢}{82}{section.6.5}%
+\contentsline {part}{ \@mptof {7}{概率论} }{83}{part.7}%
+\contentsline {chapter}{\numberline {第 7{} 章}概率论}{84}{chapter.7}%
+\contentsline {section}{\numberline {7.1}模板历史概述1}{84}{section.7.1}%
+\contentsline {section}{\numberline {7.2}线性变换}{84}{section.7.2}%
+\contentsline {section}{\numberline {7.3}复数2}{85}{section.7.3}%
+\contentsline {section}{\numberline {7.4}复数1}{85}{section.7.4}%
+\contentsline {section}{\numberline {7.5}模板历史概述2}{85}{section.7.5}%
+\contentsline {part}{ \@mptof {8}{矩阵分析} }{91}{part.8}%
+\contentsline {chapter}{\numberline {第 8{} 章}矩阵分析}{92}{chapter.8}%
+\contentsline {section}{\numberline {8.1}模板历史概述1}{92}{section.8.1}%
+\contentsline {section}{\numberline {8.2}线性变换}{92}{section.8.2}%
+\contentsline {section}{\numberline {8.3}复数2}{93}{section.8.3}%
+\contentsline {section}{\numberline {8.4}复数1}{93}{section.8.4}%
+\contentsline {section}{\numberline {8.5}模板历史概述2}{93}{section.8.5}%
+\contentsline {part}{ \@mptof {9}{数值方法} }{99}{part.9}%
+\contentsline {chapter}{\numberline {第 9{} 章}数值方法}{100}{chapter.9}%
+\contentsline {section}{\numberline {9.1}模板历史概述1}{100}{section.9.1}%
+\contentsline {section}{\numberline {9.2}线性变换}{100}{section.9.2}%
+\contentsline {section}{\numberline {9.3}复数2}{101}{section.9.3}%
+\contentsline {section}{\numberline {9.4}复数1}{101}{section.9.4}%
+\contentsline {section}{\numberline {9.5}模板历史概述2}{101}{section.9.5}%
+\contentsline {part}{ \@mptof {10}{常微分方程} }{107}{part.10}%
+\contentsline {chapter}{\numberline {第 10{} 章}常微分方程}{108}{chapter.10}%
+\contentsline {section}{\numberline {10.1}模板历史概述1}{108}{section.10.1}%
+\contentsline {section}{\numberline {10.2}线性变换}{108}{section.10.2}%
+\contentsline {section}{\numberline {10.3}复数2}{109}{section.10.3}%
+\contentsline {section}{\numberline {10.4}复数1}{109}{section.10.4}%
+\contentsline {section}{\numberline {10.5}模板历史概述2}{109}{section.10.5}%
+\contentsline {part}{ \@mptof {11}{偏微分方程} }{115}{part.11}%
+\contentsline {chapter}{\numberline {第 11{} 章}偏微分方程}{116}{chapter.11}%
+\contentsline {section}{\numberline {11.1}模板历史概述1}{116}{section.11.1}%
+\contentsline {section}{\numberline {11.2}线性变换}{116}{section.11.2}%
+\contentsline {section}{\numberline {11.3}复数2}{117}{section.11.3}%
+\contentsline {section}{\numberline {11.4}复数1}{117}{section.11.4}%
+\contentsline {section}{\numberline {11.5}模板历史概述2}{117}{section.11.5}%
+\contentsline {part}{ \@mptof {12}{复变函数} }{123}{part.12}%
+\contentsline {chapter}{\numberline {第 12{} 章}复数1}{124}{chapter.12}%
+\contentsline {section}{\numberline {12.1}模板历史概述}{124}{section.12.1}%
+\contentsline {chapter}{\numberline {第 13{} 章}复数2}{125}{chapter.13}%
+\contentsline {section}{\numberline {13.1}模板历史概述}{125}{section.13.1}%
+\contentsline {part}{ \@mptof {13}{四元数数学} }{126}{part.13}%
+\contentsline {chapter}{\numberline {第 14{} 章}四元数}{127}{chapter.14}%
+\contentsline {section}{\numberline {14.1}模板历史概述}{127}{section.14.1}%
+\contentsline {section}{\numberline {14.2}模板内容介绍-数学环境}{128}{section.14.2}%
+\contentsline {subsection}{\numberline {14.2.1}抄录环境}{128}{subsection.14.2.1}%
+\contentsline {subsection}{\numberline {14.2.2}定理环境}{129}{subsection.14.2.2}%
+\contentsline {subsubsection}{\numberline {14.2.2.1}数学环境-定义}{129}{subsubsection.14.2.2.1}%
+\contentsline {subsubsection}{\numberline {14.2.2.2}数学环境-定理}{130}{subsubsection.14.2.2.2}%
+\contentsline {subsubsection}{\numberline {14.2.2.3}数学环境-公理}{131}{subsubsection.14.2.2.3}%
+\contentsline {subsubsection}{\numberline {14.2.2.4}数学环境-公设}{132}{subsubsection.14.2.2.4}%
+\contentsline {subsubsection}{\numberline {14.2.2.5}数学环境-引理}{133}{subsubsection.14.2.2.5}%
+\contentsline {subsubsection}{\numberline {14.2.2.6}数学环境-命题}{133}{subsubsection.14.2.2.6}%
+\contentsline {subsubsection}{\numberline {14.2.2.7}数学环境-推论}{134}{subsubsection.14.2.2.7}%
+\contentsline {subsubsection}{\numberline {14.2.2.8}数学环境-性质}{134}{subsubsection.14.2.2.8}%
+\contentsline {subsubsection}{\numberline {14.2.2.9}数学环境-假设}{135}{subsubsection.14.2.2.9}%
+\contentsline {subsubsection}{\numberline {14.2.2.10}数学环境-例题\&练习}{136}{subsubsection.14.2.2.10}%
+\contentsline {subsubsection}{\numberline {14.2.2.11}任意环境-自定义标记}{137}{subsubsection.14.2.2.11}%
+\contentsline {section}{\numberline {14.3}模板内容介绍-其他盒子}{138}{section.14.3}%
+\contentsline {subsection}{\numberline {14.3.1}ascolorbox类移植盒子-多行彩框}{139}{subsection.14.3.1}%
+\contentsline {subsection}{\numberline {14.3.2}ascbox类移植盒子-单行盒子}{144}{subsection.14.3.2}%
+\contentsline {subsection}{\numberline {14.3.3}补充环境}{146}{subsection.14.3.3}%
+\contentsline {section}{\numberline {14.4}模板内容介绍-抄录环境}{147}{section.14.4}%
+\contentsline {section}{\numberline {14.5}模板使用问题-编译过慢}{150}{section.14.5}%
+\contentsline {part}{ \@mptof {14}{经典力学} }{151}{part.14}%
+\contentsline {chapter}{\numberline {第 15{} 章}经典力学}{152}{chapter.15}%
+\contentsline {section}{\numberline {15.1}模板历史概述1}{152}{section.15.1}%
+\contentsline {section}{\numberline {15.2}线性变换}{152}{section.15.2}%
+\contentsline {section}{\numberline {15.3}复数2}{153}{section.15.3}%
+\contentsline {section}{\numberline {15.4}复数1}{153}{section.15.4}%
+\contentsline {section}{\numberline {15.5}模板历史概述2}{153}{section.15.5}%
+\contentsline {part}{ \@mptof {15}{分析力学} }{159}{part.15}%
+\contentsline {chapter}{\numberline {第 16{} 章}经典力学}{160}{chapter.16}%
+\contentsline {section}{\numberline {16.1}模板历史概述1}{160}{section.16.1}%
+\contentsline {section}{\numberline {16.2}线性变换}{160}{section.16.2}%
+\contentsline {section}{\numberline {16.3}复数2}{161}{section.16.3}%
+\contentsline {section}{\numberline {16.4}复数1}{161}{section.16.4}%
+\contentsline {section}{\numberline {16.5}模板历史概述2}{161}{section.16.5}%
+\contentsline {part}{ \@mptof {16}{流体力学} }{167}{part.16}%
+\contentsline {chapter}{\numberline {第 17{} 章}经典力学}{168}{chapter.17}%
+\contentsline {section}{\numberline {17.1}模板历史概述1}{168}{section.17.1}%
+\contentsline {section}{\numberline {17.2}线性变换}{168}{section.17.2}%
+\contentsline {section}{\numberline {17.3}复数2}{169}{section.17.3}%
+\contentsline {section}{\numberline {17.4}复数1}{169}{section.17.4}%
+\contentsline {section}{\numberline {17.5}模板历史概述2}{169}{section.17.5}%
+\contentsline {part}{ \@mptof {17}{模板介绍} }{175}{part.17}%
+\contentsline {chapter}{\numberline {第 18{} 章}VividBook模板内容介绍}{176}{chapter.18}%
+\contentsline {section}{\numberline {18.1}模板历史概述}{176}{section.18.1}%
+\contentsline {section}{\numberline {18.2}模板内容介绍-数学环境}{177}{section.18.2}%
+\contentsline {subsection}{\numberline {18.2.1}抄录环境}{177}{subsection.18.2.1}%
+\contentsline {subsection}{\numberline {18.2.2}定理环境}{178}{subsection.18.2.2}%
+\contentsline {subsubsection}{\numberline {18.2.2.1}数学环境-定义}{178}{subsubsection.18.2.2.1}%
+\contentsline {subsubsection}{\numberline {18.2.2.2}数学环境-定理}{179}{subsubsection.18.2.2.2}%
+\contentsline {subsubsection}{\numberline {18.2.2.3}数学环境-公理}{180}{subsubsection.18.2.2.3}%
+\contentsline {subsubsection}{\numberline {18.2.2.4}数学环境-公设}{181}{subsubsection.18.2.2.4}%
+\contentsline {subsubsection}{\numberline {18.2.2.5}数学环境-引理}{182}{subsubsection.18.2.2.5}%
+\contentsline {subsubsection}{\numberline {18.2.2.6}数学环境-命题}{182}{subsubsection.18.2.2.6}%
+\contentsline {subsubsection}{\numberline {18.2.2.7}数学环境-推论}{183}{subsubsection.18.2.2.7}%
+\contentsline {subsubsection}{\numberline {18.2.2.8}数学环境-性质}{183}{subsubsection.18.2.2.8}%
+\contentsline {subsubsection}{\numberline {18.2.2.9}数学环境-假设}{184}{subsubsection.18.2.2.9}%
+\contentsline {subsubsection}{\numberline {18.2.2.10}数学环境-例题\&练习}{185}{subsubsection.18.2.2.10}%
+\contentsline {subsubsection}{\numberline {18.2.2.11}任意环境-自定义标记}{186}{subsubsection.18.2.2.11}%
+\contentsline {section}{\numberline {18.3}模板内容介绍-其他盒子}{187}{section.18.3}%
+\contentsline {subsection}{\numberline {18.3.1}ascolorbox类移植盒子-多行彩框}{188}{subsection.18.3.1}%
+\contentsline {subsection}{\numberline {18.3.2}ascbox类移植盒子-单行盒子}{193}{subsection.18.3.2}%
+\contentsline {subsection}{\numberline {18.3.3}补充环境}{195}{subsection.18.3.3}%
+\contentsline {section}{\numberline {18.4}模板内容介绍-抄录环境}{196}{section.18.4}%
+\contentsline {section}{\numberline {18.5}模板使用问题-编译过慢}{199}{section.18.5}%
+\contentsline {section}{\numberline {18.6}模板内容介绍-minted环境}{199}{section.18.6}%
+\contentsline {section}{\numberline {18.7}模板使用方法-必要环境}{200}{section.18.7}%
+\contentsline {chapter}{\numberline {第 19{} 章}版本更新历史}{201}{chapter.19}%
+\contentsline {part}{ \@mptof {18}{测试部分} }{203}{part.18}%
+\contentsline {chapter}{\numberline {第 20{} 章}test}{204}{chapter.20}%
+\contentsline {section}{\numberline {20.1}模板历史概述1}{204}{section.20.1}%
+\contentsline {section}{\numberline {20.2}线性变换}{204}{section.20.2}%
+\contentsline {section}{\numberline {20.3}复数2}{205}{section.20.3}%
+\contentsline {section}{\numberline {20.4}复数1}{205}{section.20.4}%
+\contentsline {section}{\numberline {20.5}模板历史概述2}{205}{section.20.5}%
+\contentsfinish 

@@ -1,0 +1,15 @@
+\begin{Verbatim}[commandchars=\\\{\},codes={\catcode`\$=3\catcode`\^=7\catcode`\_=8\relax}]
+\PYG{+w}{    }\PYG{k}{worker\PYGZus{}processes}\PYG{+w}{ }\PYG{l+m+mi}{1}\PYG{p}{;}\PYG{+w}{ }\PYG{c+c1}{\PYGZsh{} 只启动一个工作进程}
+\PYG{+w}{    }\PYG{k}{events}\PYG{+w}{ }\PYG{p}{\PYGZob{}}
+\PYG{+w}{        }\PYG{k+kn}{worker\PYGZus{}connections}\PYG{+w}{ }\PYG{l+m+mi}{1024}\PYG{p}{;}\PYG{+w}{ }\PYG{c+c1}{\PYGZsh{} 每个工作进程最大连接数为1023}
+\PYG{+w}{    }\PYG{p}{\PYGZcb{}}
+\PYG{+w}{    }\PYG{k}{http}\PYG{+w}{ }\PYG{p}{\PYGZob{}}
+\PYG{+w}{        }\PYG{k+kn}{include}\PYG{+w}{ }\PYG{l+s}{mime.types}\PYG{p}{;}\PYG{+w}{ }\PYG{c+c1}{\PYGZsh{} 引入MIME类型映射表文件}
+\PYG{+w}{        }\PYG{k+kn}{keepalive\PYGZus{}timeout}\PYG{+w}{ }\PYG{l+m+mi}{65}\PYG{p}{;}\PYG{+w}{ }\PYG{c+c1}{\PYGZsh{} 保持连接时间为65s}
+\PYG{+w}{        }\PYG{k+kn}{server}\PYG{+w}{ }\PYG{p}{\PYGZob{}}
+\PYG{+w}{            }\PYG{k+kn}{listen}\PYG{+w}{ }\PYG{l+m+mi}{80}\PYG{p}{;}\PYG{+w}{ }\PYG{c+c1}{\PYGZsh{} 监听80端口的网络连接请求}
+\PYG{+w}{            }\PYG{k+kn}{server\PYGZus{}name}\PYG{+w}{ }\PYG{l+s}{localhost}\PYG{p}{;}\PYG{+w}{ }\PYG{c+c1}{\PYGZsh{} 虚拟主机名为localhost}
+\PYG{+w}{            }\PYG{k+kn}{error\PYGZus{}page}\PYG{+w}{ }\PYG{l+m+mi}{500}\PYG{+w}{ }\PYG{l+m+mi}{502}\PYG{+w}{ }\PYG{l+m+mi}{503}\PYG{+w}{ }\PYG{l+m+mi}{504}\PYG{+w}{ }\PYG{l+s}{/50x.html}\PYG{p}{;}
+\PYG{+w}{        }\PYG{p}{\PYGZcb{}}
+\PYG{+w}{    }\PYG{p}{\PYGZcb{}}
+\end{Verbatim}

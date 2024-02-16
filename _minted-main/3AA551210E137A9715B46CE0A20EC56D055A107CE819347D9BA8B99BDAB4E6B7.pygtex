@@ -1,0 +1,3 @@
+\begin{Verbatim}[commandchars=\\\{\},codes={\catcode`\$=3\catcode`\^=7\catcode`\_=8\relax}]
+xelatex.exe \PYG{p}{\PYGZhy{}}\PYG{k}{shell}\PYG{p}{\PYGZhy{}}escape \PYG{p}{\PYGZhy{}}synctex\PYG{p}{=}\PYG{l+m}{1} \PYG{p}{\PYGZhy{}}interaction\PYG{p}{=}nonstopmode vividbook.tex
+\end{Verbatim}

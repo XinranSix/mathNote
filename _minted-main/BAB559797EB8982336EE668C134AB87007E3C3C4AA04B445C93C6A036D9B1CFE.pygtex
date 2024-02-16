@@ -1,0 +1,9 @@
+\begin{Verbatim}[commandchars=\\\{\},codes={\catcode`\$=3\catcode`\^=7\catcode`\_=8\relax}]
+\PYG{k}{def} \PYG{n+nf}{main}\PYG{p}{(}\PYG{p}{)}\PYG{p}{:} \PYG{c+c1}{\PYGZsh{} 主函数}
+    \PYG{n}{pool} \PYG{o}{=} \PYG{n}{multiprocessing}\PYG{o}{.}\PYG{n}{Pool}\PYG{p}{(}\PYG{n}{processes}\PYG{o}{=}\PYG{l+m+mi}{2}\PYG{p}{)} \PYG{c+c1}{\PYGZsh{} 定义2个大小的进程池}
+    \PYG{k}{for} \PYG{n}{item} \PYG{o+ow}{in} \PYG{n+nb}{range}\PYG{p}{(}\PYG{l+m+mi}{10}\PYG{p}{)}\PYG{p}{:} \PYG{c+c1}{\PYGZsh{} 创建10个进程}
+        \PYG{n}{result} \PYG{o}{=} \PYG{n}{pool}\PYG{o}{.}\PYG{n}{apply\PYGZus{}async}\PYG{p}{(}\PYG{n}{func}\PYG{o}{=}\PYG{n}{work}\PYG{p}{,} \PYG{n}{args}\PYG{o}{=}\PYG{p}{(}\PYG{n}{item}\PYG{p}{,}\PYG{p}{)}\PYG{p}{)} \PYG{c+c1}{\PYGZsh{} 非阻塞形式执行进程}
+        \PYG{n+nb}{print}\PYG{p}{(}\PYG{n}{result}\PYG{o}{.}\PYG{n}{get}\PYG{p}{(}\PYG{p}{)}\PYG{p}{)} \PYG{c+c1}{\PYGZsh{} 获取进程返回结果}
+    \PYG{n}{pool}\PYG{o}{.}\PYG{n}{close}\PYG{p}{(}\PYG{p}{)} \PYG{c+c1}{\PYGZsh{} 执行完毕后关闭进程池}
+    \PYG{n}{pool}\PYG{o}{.}\PYG{n}{join}\PYG{p}{(}\PYG{p}{)} \PYG{c+c1}{\PYGZsh{} 等待进程池执行完毕}
+\end{Verbatim}
